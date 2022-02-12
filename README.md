@@ -20,9 +20,9 @@ Estimate of time needed to complete: 1hr
 
 Start time: 1:30ish
 
-Finish time:
+Finish time: 2:30m 
 
-Actual time needed to complete: 2hrs 8min
+Actual time needed to complete: 1hr
 
 
 ## Credits 

@@ -1,8 +1,8 @@
 # Lab 19 Automation
 
-**Authors**: Alex Payne, Ediberto Ponce, Isaiah Burkes, Victor Sullivan, and Joshua Huston 
+**Authors**: Alex Payne, Ediberto Ponce, Isaiah Burkes, Victor Sullivan, and Joshua Huston  
 **Version**: 1.0.0 (increment the patch/fix version number if you make more commits past your first submission)  
-**PR**: 
+**PR**: https://github.com/ponceedi000/automation/pull/1  
 
 ## Overview
 
